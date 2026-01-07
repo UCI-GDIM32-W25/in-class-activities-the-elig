@@ -1,4 +1,4 @@
-# In Class Activity Devlogs
+# In Class Activities
 ## Week 1
 1. Double check that itch.io and GitHub have properly updated when submitting any assignment. For example, open your itch.io link in an incognito tab to make sure it works.
 2. Code Results:
