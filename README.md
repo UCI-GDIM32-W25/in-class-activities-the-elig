@@ -14,3 +14,10 @@ Double check that itch.io and GitHub have properly updated when submitting any a
 
 ### Activity 3
 [Link to HW1 Notes](https://docs.google.com/document/d/1FBSt1IHePMj8a95307bpUR8aoZhdvcjZGS16ntWBc2M/edit?usp=sharing)
+
+
+## Week 2
+### Activity 1
+![week-2-diagram](https://github.com/user-attachments/assets/8f14d8ac-e3ae-4de8-9b6a-7ebcd1861ac0)
+
+### Activity 2
