@@ -21,3 +21,4 @@ Double check that itch.io and GitHub have properly updated when submitting any a
 ![week-2-diagram](https://github.com/user-attachments/assets/8f14d8ac-e3ae-4de8-9b6a-7ebcd1861ac0)
 
 ### Activity 2
+During class, I started/created all of the scripts and game objects, and put the relevant components on (most of) them. I also added the coin prefab and finished the jump logic. Here is the link to the [commit](https://github.com/UCI-GDIM32-W25/mg2-oop-review-the-elig/commit/389fd2a95e7abe81eb855e77a3a5a9c8b74d6167).
