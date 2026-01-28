@@ -37,3 +37,6 @@ At runtime (`Awake()`), the `Locator` script logic checks for extra instances of
 ![week4-diagram1](https://github.com/user-attachments/assets/06921fe6-f93b-4dc9-b02d-ae6d2116cc91)
 ![week4-diagram2](https://github.com/user-attachments/assets/18172155-1979-4514-be94-f171723f326f)
 
+### Activity 3
+In class, I forked the GitHub repo and created the Unity project. Then I imported the sprites and formatted them correctly to be used. [Link](https://github.com/the-elig/mg4-basic-game-architecture/commit/39df36baed9690386f9f2c5a69386c97f8991c09)
+
