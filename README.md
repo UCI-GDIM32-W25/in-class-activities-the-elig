@@ -32,3 +32,8 @@ __Buddy Name:__ Jess
 ## Week 4 (Buddy: Jess)
 ### Activity 1
 At runtime (`Awake()`), the `Locator` script logic checks for extra instances of a `Locator` object and destroys them. This prevents multiple instances of a `Locator` object from existing, making sure it's a singleton.
+
+### Activity 2
+![week4-diagram1](https://github.com/user-attachments/assets/06921fe6-f93b-4dc9-b02d-ae6d2116cc91)
+![week4-diagram2](https://github.com/user-attachments/assets/18172155-1979-4514-be94-f171723f326f)
+
