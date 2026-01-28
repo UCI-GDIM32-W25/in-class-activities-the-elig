@@ -27,3 +27,8 @@ During class, I started/created all of the scripts and game objects, and put the
 ## Week 3
 __Buddy Name:__ Jess
 ![m3-breakdown](https://github.com/user-attachments/assets/b8451815-9101-400e-8297-23c4f5fb4552)
+
+
+## Week 4 (Buddy: Jess)
+### Activity 1
+At runtime (`Awake()`), the `Locator` script logic checks for extra instances of a `Locator` object and destroys them. This prevents multiple instances of a `Locator` object from existing, making sure it's a singleton.
