@@ -43,4 +43,10 @@ In class, I forked the GitHub repo and created the Unity project. Then I importe
 
 ## Week 5
 ### Activity 1
-__What do you think of the design of these interfaces and abstract classes? Would you keep it the same, or change it, if you were building a project with items like these?__ They're functional. As it were, this would probably be about how I did it based on my previous experience with OOP. However, since I am less familiar with interfaces, I would probably only create an abstract `Item` class with abstract methods for all items, especially since this project was so small. 
+The class design is functional. As it were, this would probably be about how I did it based on my previous experience with OOP. However, since I am less familiar with interfaces, I would probably only create an abstract `Item` class with abstract methods for all items, especially since this project was so small. 
+
+### Activty 2
+Model: `ScriptableObjects`
+View: `DialogueBubble` and `InventoryUI`
+Controller: `EnemyClass` and `PlayerClass`
+
