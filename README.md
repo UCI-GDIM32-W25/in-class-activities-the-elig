@@ -54,3 +54,7 @@ Controller: `EnemyClass` and `PlayerClass`
 - each beat should be a prefab (so it has a `Transform` and a sprite) with a `ScriptableObject` for the data associated with it (key, final location, etc.)
 - in addition, each beat type would have a script dictating its movement/speed (in an abstract `Beat` class with different beat types as its children)
 - `HitNote()` event, so we should probably have a singleton
+
+### Activity 4
+__Attendance:__ Jasmine Caicedo, Giovanni Solorio, Eli Gutierrez
+[Project Proposal](https://docs.google.com/document/d/1GxlGKB6HPG_Q6x96TOvyybNU5x_lLUS-DKCN9NGH8AQ/edit?usp=sharing)
