@@ -56,5 +56,5 @@ Controller: `EnemyClass` and `PlayerClass`
 - `HitNote()` event, so we should probably have a singleton
 
 ### Activity 4
-__Attendance:__ Jasmine Caicedo, Giovanni Solorio, Eli Gutierrez
+Jasmine Caicedo, Giovanni Solorio, and Eli Gutierrez's
 [Project Proposal](https://docs.google.com/document/d/1GxlGKB6HPG_Q6x96TOvyybNU5x_lLUS-DKCN9NGH8AQ/edit?usp=sharing)
