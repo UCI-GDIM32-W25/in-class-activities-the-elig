@@ -50,3 +50,7 @@ Model: `ScriptableObjects`
 View: `DialogueBubble` and `InventoryUI`
 Controller: `EnemyClass` and `PlayerClass`
 
+### Activity 3 (scenario 1: rhythm game)
+- each beat should be a prefab (so it has a `Transform` and a sprite) with a `ScriptableObject` for the data associated with it (key, final location, etc.)
+- in addition, each beat type would have a script dictating its movement/speed (in an abstract `Beat` class with different beat types as its children)
+- `HitNote()` event, so we should probably have a singleton
