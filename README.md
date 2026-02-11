@@ -58,3 +58,16 @@ Controller: `EnemyClass` and `PlayerClass`
 ### Activity 4
 Jasmine Caicedo, Giovanni Solorio, and Eli Gutierrez's
 [Project Proposal](https://docs.google.com/document/d/1GxlGKB6HPG_Q6x96TOvyybNU5x_lLUS-DKCN9NGH8AQ/edit?usp=sharing)
+
+
+## Week 6
+### Activity 1
+- `Gizmos` can be used to visualize player collision with other objects, which can be useful for checking interaction distance
+- breakpoints are great for quick, clear debugging. `Debug.Log()` can be a bit tedious, especially if you aren't sure what you are checking for
+- much easier to visualize going through the code with breakpoints rather than having a print out in every function to see if it triggers when it should
+- document the code you write, good in general, and for merge conflicts
+
+### Activity 2
+Jasmine Caicedo, Giovanni Solorio, and Eli Gutierrez's
+[Final Project Proposal](https://docs.google.com/document/d/1GxlGKB6HPG_Q6x96TOvyybNU5x_lLUS-DKCN9NGH8AQ/edit?usp=sharing)
+
