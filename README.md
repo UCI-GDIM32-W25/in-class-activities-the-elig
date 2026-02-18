@@ -79,7 +79,11 @@ Jasmine Caicedo, Giovanni Solorio, and Eli Gutierrez's
 - `Physics.Raycast()` returns a boolean value (true/false) depending on whether it hits something
 
 ### Activity 2 & 3
-Jasmine Caicedo, Giovanni Solorio, and Eli Gutierrez's
+Jasmine Caicedo, Giovanni Solorio, and Eli Gutierrez's Project Breakdown
+![week7-diagram](https://github.com/user-attachments/assets/109790dd-058c-4d07-8c91-1b22447dc22e)
+
+### Activity 4
+[Project Assignments](https://docs.google.com/document/d/1sehPNIdyI6lp60o5EtXhbFXRd0Idz6kQugv0XU2nbt0/edit?usp=sharing)
 
 ### Activity 5
 I started and [completed 3D player movement](https://github.com/the-elig/GDIM32-Final/commit/001c69900cb39dcce9a7c96e1553cf3364b13014), which included creating the game object, the script, and working the camera. 
