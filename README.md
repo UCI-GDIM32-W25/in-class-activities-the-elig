@@ -71,3 +71,9 @@ Jasmine Caicedo, Giovanni Solorio, and Eli Gutierrez's
 Jasmine Caicedo, Giovanni Solorio, and Eli Gutierrez's
 [Final Project Proposal](https://docs.google.com/document/d/1GxlGKB6HPG_Q6x96TOvyybNU5x_lLUS-DKCN9NGH8AQ/edit?usp=sharing)
 
+
+## Week 7
+### Activity 1
+- Finite State Machine useful for keeping track of duck's behavior patterns (mutually exclusive movement: wander and pursue)
+- `Gizmos` (for visualization) combined with `Raycasting` (for logic) is super useful for tracking aggro
+- `Physics.Raycast()` returns a boolean value (true/false) depending on whether it hits something
