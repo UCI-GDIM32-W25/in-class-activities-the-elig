@@ -83,7 +83,7 @@ Jasmine Caicedo, Giovanni Solorio, and Eli Gutierrez's Project Breakdown
 ![week7-diagram](https://github.com/user-attachments/assets/109790dd-058c-4d07-8c91-1b22447dc22e)
 
 ### Activity 4
-[Project Assignments](https://docs.google.com/document/d/1sehPNIdyI6lp60o5EtXhbFXRd0Idz6kQugv0XU2nbt0/edit?usp=sharing)
+[To-do List](https://docs.google.com/document/d/1sehPNIdyI6lp60o5EtXhbFXRd0Idz6kQugv0XU2nbt0/edit?usp=sharing) and [Project Assignments](https://trello.com/invite/b/69952197645cfeac88fc9cbb/ATTI3ecb167f4e336e5d46110709573aa78f9A1EA0E1/tasks-for-melt-ice)
 
 ### Activity 5
 I started and [completed 3D player movement](https://github.com/the-elig/GDIM32-Final/commit/001c69900cb39dcce9a7c96e1553cf3364b13014), which included creating the game object, the script, and working the camera. 
