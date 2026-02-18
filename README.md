@@ -77,3 +77,9 @@ Jasmine Caicedo, Giovanni Solorio, and Eli Gutierrez's
 - Finite State Machine useful for keeping track of duck's behavior patterns (mutually exclusive movement: wander and pursue)
 - `Gizmos` (for visualization) combined with `Raycasting` (for logic) is super useful for tracking aggro
 - `Physics.Raycast()` returns a boolean value (true/false) depending on whether it hits something
+
+### Activity 2 & 3
+Jasmine Caicedo, Giovanni Solorio, and Eli Gutierrez's
+
+### Activity 5
+I started and [completed 3D player movement](https://github.com/the-elig/GDIM32-Final/commit/001c69900cb39dcce9a7c96e1553cf3364b13014), which included creating the game object, the script, and working the camera. 
