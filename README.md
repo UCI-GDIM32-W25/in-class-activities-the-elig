@@ -87,3 +87,13 @@ Jasmine Caicedo, Giovanni Solorio, and Eli Gutierrez's Project Breakdown
 
 ### Activity 5
 I started and [completed 3D player movement](https://github.com/the-elig/GDIM32-Final/commit/001c69900cb39dcce9a7c96e1553cf3364b13014), which included creating the game object, the script, and working the camera. 
+
+
+## Week 8
+### Activity 1
+- post processing are visual effects applied to the entire screen
+- shaders/materials apply specifically to the objects in the game while the scene is being rendered
+- use post-process Volume component for post processing
+-   unity has a small post processing library already, but there's a lot more online
+- check your rendering pipeline settings in project settings, and make sure any downloaded content is compatible with it
+-  test downloaded content immediately for common sense reasons
