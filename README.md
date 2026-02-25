@@ -97,3 +97,16 @@ I started and [completed 3D player movement](https://github.com/the-elig/GDIM32-
 -   unity has a small post processing library already, but there's a lot more online
 - check your rendering pipeline settings in project settings, and make sure any downloaded content is compatible with it
 -  test downloaded content immediately for common sense reasons
+
+### Activity 2 & 3
+Jasmine Caicedo, Giovanni Solorio, and Eli Gutierrez's buddy team is "Cooked Locked In"
+- add inventory UI/notify player about interactions
+- add quest text
+- move the pillow on the foot of the bed to the place pillows should go
+
+### Activity 4
+I will work on the inventory UI and add more interactable objects. 
+
+### Activity 5
+Worked door interactivity and set player location. [Commit](https://github.com/the-elig/GDIM32-Final/commit/ad30b1274d419df227a20ae1b4e4c49f16587509)
+
