@@ -19,13 +19,13 @@ public class DuckOneDialogueBranch : MonoBehaviour
     private bool _runningDialogue;
     private bool _waitingForPlayerResponse;
 
-    private void Update ()
+    private void Update () // checks if player is in interact distance
     {
         if(PlayerW9Dialogue.Instance == null) return;
         
         if(Vector3.Distance(transform.position, PlayerW9Dialogue.Instance.transform.position) < _interactionDistance)
         {
-            if(!_waitingForPlayerResponse && Input.GetKeyDown(KeyCode.Space))
+            if(!_waitingForPlayerResponse && Input.GetKeyDown(KeyCode.Space)) // if player presses space
             {
                 AdvanceDialogue();
             }
@@ -47,7 +47,7 @@ public class DuckOneDialogueBranch : MonoBehaviour
         }
     }
 
-    private void AdvanceDialogue ()
+    private void AdvanceDialogue () // called when the player presses space
     {
         _interactionPromptIcon.SetActive(false);
         _activeDialogueIcon.SetActive(true);
