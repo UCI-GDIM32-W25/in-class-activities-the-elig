@@ -117,6 +117,23 @@ Worked door interactivity and set player location. [Commit](https://github.com/t
 - keeps you from having to code the same thing over and over again
 - do multiple NPC dialogues by creating a DialogueController that tells the NPC logic what NPC they're talking to when the conversation begins (choose starting node)
 
-### Activity 2
+### Activity 2 & 3
 all of us are here :D
 
+Feedback:
+- Interactivity and inventory functioned well.
+- The environment was received well. As intended, the house was rightfully dreary while the outside was much more lively.
+- Lower mouse sensitivity.
+
+Bugs:
+- Sister and cup spawns outside
+- Program it so that they disable on scene change. 
+- Cover them up.
+- Bottom of ice can be seen through
+- On certain instances, the player can clip outside the house through the corner.
+
+### Activity 4
+Progress wise, we've set a lot of ground work for the rest of the game, so a lot of it will by much simpler from here on out since the scaffolding has been set up. This includes the dialogue system and the interaction system, since that was coded with scalability in mind, so it can be applied throughout the project.
+
+### Activity 5
+I worked the dialogue system, both the logic and the UI. 
