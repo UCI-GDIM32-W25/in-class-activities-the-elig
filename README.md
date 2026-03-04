@@ -110,3 +110,13 @@ I will work on the inventory UI and add more interactable objects.
 ### Activity 5
 Worked door interactivity and set player location. [Commit](https://github.com/the-elig/GDIM32-Final/commit/ad30b1274d419df227a20ae1b4e4c49f16587509)
 
+
+## Week 9
+### Activity 1
+- we've been practicing scalable coding practices with Model/View/Controller and Singletons
+- keeps you from having to code the same thing over and over again
+- do multiple NPC dialogues by creating a DialogueController that tells the NPC logic what NPC they're talking to when the conversation begins (choose starting node)
+
+### Activity 2
+all of us are here :D
+
