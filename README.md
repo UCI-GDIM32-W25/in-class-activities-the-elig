@@ -136,4 +136,4 @@ Bugs:
 Progress wise, we've set a lot of ground work for the rest of the game, so a lot of it will by much simpler from here on out since the scaffolding has been set up. This includes the dialogue system and the interaction system, since that was coded with scalability in mind, so it can be applied throughout the project.
 
 ### Activity 5
-I worked the dialogue system, both the logic and the UI. 
+I worked the dialogue system, both the logic and the UI. This included reworking how the dialogue trigger worked, so that different NPCs can have different dialogue starting nodes. I would link a commit I made, but all I did in class was make a mess of _everything_ so that now dialogue doesn't work at all anymore, so I don't want to make any commits. I did stay in class until about 7:20 (had to leave for a club), and I chatted with Professor Reid about the dialogue problem during that time.
