@@ -137,3 +137,18 @@ Progress wise, we've set a lot of ground work for the rest of the game, so a lot
 
 ### Activity 5
 I worked the dialogue system, both the logic and the UI. This included reworking how the dialogue trigger worked, so that different NPCs can have different dialogue starting nodes. I would link a commit I made, but all I did in class was make a mess of _everything_ so that now dialogue doesn't work at all anymore, so I don't want to make any commits. I did stay in class until about 7:20 (had to leave for a club), and I chatted with Professor Reid about the dialogue problem during that time.
+
+## Week 10
+### Activity 1
+Eli, Geo, Jasmine -- we're all here :) 
+
+### Activity 2 
+- fun game :D
+- looks and sounds cool (music gives Squid Games, apparently)
+- some bugs: sister exists in both scenes, neighbor can be doubled, only one inventory slot, key/cup respawn
+
+### Activity 3 
+As of today, I would say we are about 70% done, since almost all of our general game logic is implemented without bugs, and the bugs shouldn't be too difficult to fix. That leaves putting specific items into the scene, writing dialogue, and any individual item logic that isn't covered in the general game logic. I'd say we're in a good place, and the scope is fairly reasonable. 
+
+### Activity 4
+The dialogue now works in both scenes, with both NPCs (and should work with any other NPCs we add). I also added some dialogue lines. [Commit](https://github.com/the-elig/GDIM32-Final/commit/e2cc9ae4795281e021b054f93dc9d7738085aa48)
